@@ -7,32 +7,32 @@ Mi avvicino al mondo della **programmazione web** quando mi accorgo che sono in 
 **Oggi, spero di far diventare questa mia passione, una professione.**    
  
 <p align="center">
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/git.png" alt="mysql" width="50" height="50"/><img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/html5.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/css3.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/javascript.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/vue.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/laravel.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/php.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/java17.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/spring_boot.png" alt="mysql" width="70" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/vs_code.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/IntelliJ.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/vite.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/phpMyAdmin.png" alt="mysql" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/git.png" alt="git" width="50" height="50"/><img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/html5.png" alt="html5" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/css3.png" alt="css3" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/javascript.png" alt="javascript" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/vue.png" alt="vue" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/laravel.png" alt="laravel" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/php.png" alt="php" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/java17.png" alt="java17" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/spring_boot.png" alt="spring_boot" width="70" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/vs_code.png" alt="vs_code" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/IntelliJ.png" alt="IntelliJ" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/vite.png" alt="vite" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/phpMyAdmin.png" alt="phpMyAdmin" width="50" height="50"/>
 </p>
 
 <p align="center">
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/DBeaver.png" alt="mysql" width="50" height="50"/><img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/mysqli.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/axios.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/postman.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/node_js.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/npm.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/composer.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/hibernate.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/thymeleaf.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/maven.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/bootstrap.png" alt="mysql" width="50" height="50"/>
-	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/sass.png" alt="mysql" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/DBeaver.png" alt="DBeaver" width="50" height="50"/><img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/mysqli.png" alt="mysqli" width="60" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/axios.png" alt="axios" width="40" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/postman.png" alt="postman" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/node_js.png" alt="node_js" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/npm.png" alt="npm" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/composer.png" alt="composer" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/hibernate.png" alt="hibernate" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/thymeleaf.png" alt="thymeleaf" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/maven.png" alt="maven" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/bootstrap.png" alt="bootstrap" width="50" height="50"/>
+	<img src="https://fabiodigiacomopepe.netlify.app/img/tecnologie/sass.png" alt="sass" width="50" height="50"/>
 </p>
 
 
