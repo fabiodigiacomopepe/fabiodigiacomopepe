@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="./img/copertina.png">
+</p>
+
 # Ciao, sono Fabio 👋
 #### Jr. Full Stack Web Developer
 
