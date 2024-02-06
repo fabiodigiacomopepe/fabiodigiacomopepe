@@ -2,9 +2,6 @@
 	<img src="./img/copertina.png">
 </p>
 
-# Ciao, sono Fabio 👋
-#### Jr. Full Stack Web Developer
-
 ## 🚀 About Me
 Mi avvicino al mondo della **programmazione web** quando mi accorgo che sono in grado di manipolare lo strumento **"Ispeziona Elemento"** del browser senza che nessuno mi abbia mai spiegato come fare.  
 **Oggi, spero di far diventare questa mia passione, una professione.**
