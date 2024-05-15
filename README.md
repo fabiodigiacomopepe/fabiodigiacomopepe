@@ -30,8 +30,7 @@
 </p>
 
 ## 🚀 About Me
-Mi avvicino al mondo della **programmazione web** quando mi accorgo che sono in grado di manipolare lo strumento **"Ispeziona Elemento"** del browser senza che nessuno mi abbia mai spiegato come fare.  
-**Oggi, spero di far diventare questa mia passione, una professione.**    
+Appassionato fin da sempre dalla **tecnologia**, mi avvicino al mondo della **programmazione web** quando mi accorgo che sono in grado di manipolare abbastanza bene un sito web tramite lo strumento "**Ispeziona Elemento**" del browser. Completamente da solo. Senza che nessuno mi abbia mai spiegato come fare.   
 
 ## 🛠 Skills
 - **Linguaggi markup/stile:** HTML, CSS, SASS/SCSS
